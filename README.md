@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jozo132&layout=compact&theme=buefy" alt="Florin is technology agnostic but the  top languages are"/>
 <!--
 **Jozo132/Jozo132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
