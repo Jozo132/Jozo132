@@ -1,5 +1,5 @@
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jozo132&hide=contribs,prs" alt="Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jozo132&hide=contribs" alt="Stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jozo132&layout=compact&theme=buefy" alt="Top languages"/>
 
